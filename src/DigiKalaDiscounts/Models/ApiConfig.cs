@@ -13,4 +13,6 @@ public class ApiConfig
     public List<string> ApiUrls { set; get; } = new();
 
     public int MaxApiPagesToSearch { set; get; }
+
+    public int TaskDelayInSeconds { set; get; }
 }

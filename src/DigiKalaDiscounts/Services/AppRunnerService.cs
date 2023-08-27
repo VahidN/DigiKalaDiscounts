@@ -2,6 +2,7 @@
 using DigiKalaDiscounts.Models;
 using DigiKalaDiscounts.Services.Contracts;
 using Microsoft.Extensions.Logging;
+using Microsoft.Extensions.Options;
 
 namespace DigiKalaDiscounts.Services;
 
@@ -10,6 +11,7 @@ namespace DigiKalaDiscounts.Services;
 /// </summary>
 public class AppRunnerService : IAppRunnerService
 {
+    private readonly IOptions<AppConfig> _appConfig;
     private readonly IFetchProductItemsService _fetchProductItemsService;
     private readonly ILogger<AppRunnerService> _logger;
     private readonly IProductItemsHistoryService _productItemsHistoryService;
@@ -18,11 +20,13 @@ public class AppRunnerService : IAppRunnerService
     public AppRunnerService(IProductItemsHistoryService productItemsHistoryService,
                             IFetchProductItemsService fetchProductItemsService,
                             ITelegramBotService telegramBotService,
+                            IOptions<AppConfig> appConfig,
                             ILogger<AppRunnerService> logger)
     {
         _productItemsHistoryService = productItemsHistoryService;
         _fetchProductItemsService = fetchProductItemsService;
         _telegramBotService = telegramBotService;
+        _appConfig = appConfig;
         _logger = logger;
     }
 
@@ -73,6 +77,8 @@ public class AppRunnerService : IAppRunnerService
                     await _telegramBotService.SendPhotoAsync(telegramGroupOptions, productItem);
                     _productItemsHistoryService.MarkAsCompletedItem(productItem);
                     results.CompletedItemsCount++;
+
+                    await Task.Delay(TimeSpan.FromSeconds(_appConfig.Value.ApiConfig.TaskDelayInSeconds));
                 }
                 catch (Exception ex)
                 {
