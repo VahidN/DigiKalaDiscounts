@@ -19,7 +19,7 @@ jobs:
             dotnet-version: 7.0.306
 
       - name: Run Project
-        run: dotnet run --project ./src/DigiKalaDiscounts/DigiKalaDiscounts.csproj -t ${{ secrets.Telegram_AccessToken }} -i ${{ secrets.Telegram_ChatId }}
+        run: dotnet run --project ./src/DigiKalaDiscounts/DigiKalaDiscounts.csproj -t ${{ secrets.TELEGRAM_ACCESSTOKEN }} -i ${{ secrets.TELEGRAM_CHATID }}
           
       - name: Push changes to repo          
         run: |      
