@@ -32,7 +32,7 @@ jobs:
           git lfs install
           git checkout main
           git add -A
-          git commit -m "Automated publish"
+          git commit -m "Automated publish" || echo "there is nothing to commit, proceed"
           git pull --rebase publisher main
           git push publisher main          
 
