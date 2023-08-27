@@ -53,7 +53,7 @@ public class FetchProductItemsService : IFetchProductItemsService
             }
         }
 
-        return results.OrderByDescending(productItem => productItem.Discount).ToList();
+        return results.Where(productItem => productItem.DiscountPercent > 0).OrderByDescending(productItem => productItem.Discount).ToList();
     }
 
     private static ProductItem CreateProductItem(Product product, DateTime now)
