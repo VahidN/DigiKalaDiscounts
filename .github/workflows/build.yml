@@ -1,0 +1,40 @@
+name: .NET Core Build
+
+on:
+  push:
+    branches: [ "main" ]
+  schedule:
+    - cron: "0 */2 * * *"
+
+    
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Setup .NET Core
+        uses: actions/setup-dotnet@v1
+        with:
+            dotnet-version: 7.0.306
+
+      - name: Run Project
+        run: dotnet run --project ./src/DigiKalaDiscounts/DigiKalaDiscounts.csproj -t ${{ secrets.Telegram_AccessToken }} -i ${{ secrets.Telegram_ChatId }}
+          
+      - name: Push changes to repo          
+        run: |      
+          git config http.sslVerify false
+          git config user.name "${{ github.actor }}"
+          git config user.email "${{ github.actor }}@users.noreply.github.com"
+          git remote add publisher "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git"
+          git show-ref
+          git branch --verbose
+          git lfs install
+          git checkout main
+          git add -A
+          git commit -m "Automated publish"
+          git pull --rebase publisher main
+          git push publisher main          
+
+      
+
