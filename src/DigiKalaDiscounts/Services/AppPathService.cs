@@ -38,7 +38,7 @@ public class AppPathService : IAppPathService
     {
         return hostEnvironment.ContentRootPath.Split(new[]
                                                      {
-                                                         "/bin/",
+                                                         $"{Path.DirectorySeparatorChar}bin{Path.DirectorySeparatorChar}",
                                                      },
                                                      StringSplitOptions.RemoveEmptyEntries)[0];
     }
