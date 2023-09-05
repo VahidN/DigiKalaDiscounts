@@ -8685,5 +8685,39 @@
     "SoldPercentage": 0,
     "Discount": 19000,
     "DiscountPercent": 24
+  },
+  {
+    "Id": "12375611",
+    "AddDate": "2023-09-05T14:10:28.6155643Z",
+    "Timer": 22764,
+    "EndDate": "2023-09-05T20:29:52.6155643Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u0639\u06CC\u0646\u06A9 \u0622\u0641\u062A\u0627\u0628\u06CC \u0631\u06CC \u0628\u0646 \u0645\u062F\u0644 RB2140 Wayfarer-901S-50",
+    "Url": "/product/dkp-12375611/\u0639\u06CC\u0646\u06A9-\u0622\u0641\u062A\u0627\u0628\u06CC-\u0631\u06CC-\u0628\u0646-\u0645\u062F\u0644-rb2140-wayfarer-901s-50",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/978355e559327ba0a3f12287eaef0d0a77971bc1_1692099733.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 3458600,
+    "RrpPrice": 11976000,
+    "SoldPercentage": 0,
+    "Discount": 8517400,
+    "DiscountPercent": 71
+  },
+  {
+    "Id": "7897517",
+    "AddDate": "2023-09-05T14:10:27.3789841Z",
+    "Timer": 22765,
+    "EndDate": "2023-09-05T20:29:52.3789841Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u06A9\u0648\u0644\u0647 \u067E\u0634\u062A\u06CC \u0628\u0686\u06AF\u0627\u0646\u0647 \u0645\u062F\u0644 AM-111",
+    "Url": "/product/dkp-7897517/\u06A9\u0648\u0644\u0647-\u067E\u0634\u062A\u06CC-\u0628\u0686\u06AF\u0627\u0646\u0647-\u0645\u062F\u0644-am-111",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/3c31efc4fb2dd66bb8590981dba03ad5214cd586_1659362147.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 139000,
+    "RrpPrice": 187000,
+    "SoldPercentage": 0,
+    "Discount": 48000,
+    "DiscountPercent": 26
   }
 ]
