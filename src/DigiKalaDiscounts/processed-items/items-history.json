@@ -9076,5 +9076,22 @@
     "SoldPercentage": 0,
     "Discount": 14000,
     "DiscountPercent": 27
+  },
+  {
+    "Id": "11769016",
+    "AddDate": "2023-09-15T00:48:22.0893242Z",
+    "Timer": 13297,
+    "EndDate": "2023-09-15T04:29:59.0893242Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u0639\u06CC\u0646\u06A9 \u0634\u0628 \u0632\u0646\u0627\u0646\u0647 \u0645\u062F\u0644 M324 Abalone Pumpkin",
+    "Url": "/product/dkp-11769016/\u0639\u06CC\u0646\u06A9-\u0634\u0628-\u0632\u0646\u0627\u0646\u0647-\u0645\u062F\u0644-m324-abalone-pumpkin",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/a6b6c16911466046ae1024f91e28bc1ac70ddd7d_1687616206.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 249000,
+    "RrpPrice": 720000,
+    "SoldPercentage": 38,
+    "Discount": 471000,
+    "DiscountPercent": 65
   }
 ]
