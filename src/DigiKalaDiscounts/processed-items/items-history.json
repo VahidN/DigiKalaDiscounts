@@ -10844,5 +10844,39 @@
     "SoldPercentage": 0,
     "Discount": 301000,
     "DiscountPercent": 50
+  },
+  {
+    "Id": "12165864",
+    "AddDate": "2023-09-21T04:12:49.041358Z",
+    "Timer": 1027,
+    "EndDate": "2023-09-21T04:29:56.041358Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u0639\u06CC\u0646\u06A9 \u0622\u0641\u062A\u0627\u0628\u06CC \u0645\u062F\u0644 3557C41-P92 Polarized Leopard",
+    "Url": "/product/dkp-12165864/\u0639\u06CC\u0646\u06A9-\u0622\u0641\u062A\u0627\u0628\u06CC-\u0645\u062F\u0644-3557c41-p92-polarized-leopard",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/224371a1029df59a8527fea3fa2aa3a1740b0d67_1690295262.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 798000,
+    "RrpPrice": 3200000,
+    "SoldPercentage": 0,
+    "Discount": 2402000,
+    "DiscountPercent": 75
+  },
+  {
+    "Id": "9519344",
+    "AddDate": "2023-09-21T04:12:47.8757542Z",
+    "Timer": 58629,
+    "EndDate": "2023-09-21T20:29:56.8757542Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u062A\u0631\u0627\u0632\u0648 \u062F\u06CC\u062C\u06CC\u062A\u0627\u0644 \u062F\u0646\u0648\u0631 \u0645\u062F\u0644 DEV-1020GSN",
+    "Url": "/product/dkp-9519344/\u062A\u0631\u0627\u0632\u0648-\u062F\u06CC\u062C\u06CC\u062A\u0627\u0644-\u062F\u0646\u0648\u0631-\u0645\u062F\u0644-dev-1020gsn",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/23841475ceb3cc3823d7b690a16755e63dadc369_1663838694.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 379000,
+    "RrpPrice": 890000,
+    "SoldPercentage": 0,
+    "Discount": 511000,
+    "DiscountPercent": 57
   }
 ]
