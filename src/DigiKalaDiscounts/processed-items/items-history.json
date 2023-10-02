@@ -1,22 +1,5 @@
 [
   {
-    "Id": "11409832",
-    "AddDate": "2023-09-30T18:12:30.0820673Z",
-    "Timer": 8243,
-    "EndDate": "2023-09-30T20:29:53.0820673Z",
-    "Retries": 0,
-    "IsDone": true,
-    "Error": "",
-    "Title": "\u0633\u0627\u0639\u062A \u0647\u0648\u0634\u0645\u0646\u062F \u0645\u062F\u0644 K52",
-    "Url": "/product/dkp-11409832/\u0633\u0627\u0639\u062A-\u0647\u0648\u0634\u0645\u0646\u062F-\u0645\u062F\u0644-k52",
-    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/9a70972d1390e2547065c2cad4e90bbc1760518f_1684746083.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-    "SellingPrice": 2659000,
-    "RrpPrice": 5947000,
-    "SoldPercentage": 0,
-    "Discount": 3288000,
-    "DiscountPercent": 55
-  },
-  {
     "Id": "10589172",
     "AddDate": "2023-09-30T20:10:28.1784443Z",
     "Timer": 87564,
