@@ -136,7 +136,7 @@ dotnet_diagnostic.HAA0602.severity = suggestion
 dotnet_diagnostic.HAA0603.severity = suggestion
 
 dotnet_diagnostic.IDE0004.severity = warning
-dotnet_diagnostic.IDE0005.severity = warning
+dotnet_diagnostic.IDE0005.severity = suggestion
 dotnet_diagnostic.IDE0011.severity = suggestion
 dotnet_diagnostic.IDE0018.severity = warning
 dotnet_diagnostic.IDE0019.severity = warning
