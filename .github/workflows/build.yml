@@ -11,12 +11,12 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       - name: Setup .NET Core
-        uses: actions/setup-dotnet@v1
+        uses: actions/setup-dotnet@v3
         with:
-            dotnet-version: 7.0.306
+            dotnet-version: 7.0.x
 
       - name: Run Project
         run: dotnet run --project ./src/DigiKalaDiscounts/DigiKalaDiscounts.csproj -t ${{ secrets.TELEGRAM_ACCESSTOKEN }} -i ${{ secrets.TELEGRAM_CHATID }}
