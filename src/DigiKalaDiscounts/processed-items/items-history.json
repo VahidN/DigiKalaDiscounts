@@ -10946,5 +10946,22 @@
     "SoldPercentage": 0,
     "Discount": 24000,
     "DiscountPercent": 20
+  },
+  {
+    "Id": "12398369",
+    "AddDate": "2023-10-12T00:46:23.9279534Z",
+    "Timer": 70944,
+    "EndDate": "2023-10-12T20:28:47.9279534Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u0634\u0644\u0648\u0627\u0631 \u0632\u0646\u0627\u0646\u0647 \u0645\u062F\u0644 M3397 \u0645\u062C\u0645\u0648\u0639\u0647 2 \u0639\u062F\u062F\u06CC",
+    "Url": "/product/dkp-12398369/\u0634\u0644\u0648\u0627\u0631-\u0632\u0646\u0627\u0646\u0647-\u0645\u062F\u0644-m3397-\u0645\u062C\u0645\u0648\u0639\u0647-2-\u0639\u062F\u062F\u06CC",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/029a2adecbf30e91c09753bee14b422c9583e249_1692172856.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 179000,
+    "RrpPrice": 360000,
+    "SoldPercentage": 0,
+    "Discount": 181000,
+    "DiscountPercent": 50
   }
 ]
