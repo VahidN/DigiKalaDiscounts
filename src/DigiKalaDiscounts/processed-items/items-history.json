@@ -9620,5 +9620,39 @@
     "SoldPercentage": 0,
     "Discount": 13900,
     "DiscountPercent": 22
+  },
+  {
+    "Id": "12869139",
+    "AddDate": "2023-10-24T00:48:20.9752718Z",
+    "Timer": 13298,
+    "EndDate": "2023-10-24T04:29:58.9752718Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u0639\u06CC\u0646\u06A9 \u0622\u0641\u062A\u0627\u0628\u06CC \u0645\u0631\u062F\u0627\u0646\u0647 \u0645\u062F\u0644 JS8533C49-P137 Polarized",
+    "Url": "/product/dkp-12869139/\u0639\u06CC\u0646\u06A9-\u0622\u0641\u062A\u0627\u0628\u06CC-\u0645\u0631\u062F\u0627\u0646\u0647-\u0645\u062F\u0644-js8533c49-p137-polarized",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/baa4b20668a295551885fc011e0c8feff9777c31_1696245288.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 998000,
+    "RrpPrice": 4200000,
+    "SoldPercentage": 0,
+    "Discount": 3202000,
+    "DiscountPercent": 76
+  },
+  {
+    "Id": "12485947",
+    "AddDate": "2023-10-24T00:48:20.6021047Z",
+    "Timer": 70899,
+    "EndDate": "2023-10-24T20:29:59.6021047Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u062C\u0627\u0645\u062F\u0627\u062F\u06CC \u06AF\u0627\u0628\u0644 \u0645\u062F\u0644 227031 Betsy ",
+    "Url": "/product/dkp-12485947/\u062C\u0627\u0645\u062F\u0627\u062F\u06CC-\u06AF\u0627\u0628\u0644-\u0645\u062F\u0644-227031-betsy",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/2813c36cb132c6226b676f4a9ed57ed35534480d_1692860661.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 355000,
+    "RrpPrice": 500000,
+    "SoldPercentage": 0,
+    "Discount": 145000,
+    "DiscountPercent": 29
   }
 ]
