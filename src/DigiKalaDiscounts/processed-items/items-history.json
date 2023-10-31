@@ -9348,5 +9348,22 @@
     "SoldPercentage": 54,
     "Discount": 10000,
     "DiscountPercent": 5
+  },
+  {
+    "Id": "12887455",
+    "AddDate": "2023-10-31T00:49:06.634634Z",
+    "Timer": 70854,
+    "EndDate": "2023-10-31T20:30:00.634634Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u06A9\u0627\u067E\u0634\u0646 \u0645\u0631\u062F\u0627\u0646\u0647 \u0645\u062F\u0644 M3528",
+    "Url": "/product/dkp-12887455/\u06A9\u0627\u067E\u0634\u0646-\u0645\u0631\u062F\u0627\u0646\u0647-\u0645\u062F\u0644-m3528",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/090741db234c96736babb1b2cf53c9ddc958e3b8_1696422546.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 1333000,
+    "RrpPrice": 2800000,
+    "SoldPercentage": 0,
+    "Discount": 1467000,
+    "DiscountPercent": 52
   }
 ]
