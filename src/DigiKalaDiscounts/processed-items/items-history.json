@@ -1,22 +1,5 @@
 [
   {
-    "Id": "12554253",
-    "AddDate": "2023-11-01T00:52:13.4653591Z",
-    "Timer": 70667,
-    "EndDate": "2023-11-01T20:30:00.4653591Z",
-    "Retries": 0,
-    "IsDone": true,
-    "Error": "",
-    "Title": "\u062C\u0627\u0645\u062F\u0627\u062F\u06CC \u06AF\u0627\u0628\u0644 \u0645\u062F\u0644  Idea 231298",
-    "Url": "/product/dkp-12554253/\u062C\u0627\u0645\u062F\u0627\u062F\u06CC-\u06AF\u0627\u0628\u0644-\u0645\u062F\u0644-idea-231298",
-    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/541a8ef945b118e6a1017d0b110a12403b1f1fa8_1693634942.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-    "SellingPrice": 308000,
-    "RrpPrice": 440000,
-    "SoldPercentage": 0,
-    "Discount": 132000,
-    "DiscountPercent": 30
-  },
-  {
     "Id": "12066488",
     "AddDate": "2023-11-01T06:14:53.7109123Z",
     "Timer": 8106,
