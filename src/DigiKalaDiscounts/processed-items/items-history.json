@@ -1,22 +1,5 @@
 [
   {
-    "Id": "8219944",
-    "AddDate": "2023-11-14T02:21:13.4772255Z",
-    "Timer": 7721,
-    "EndDate": "2023-11-14T04:29:54.4772255Z",
-    "Retries": 0,
-    "IsDone": true,
-    "Error": "",
-    "Title": "\u0642\u0631\u0635 \u0634\u06CC\u0634\u0647 \u0634\u0648\u06CC \u062E\u0648\u062F\u0631\u0648 \u0627\u062A\u0648 \u0644\u0627\u06CC\u0641 \u0645\u062F\u0644 Ultra \u0628\u0633\u062A\u0647 30 \u0639\u062F\u062F\u06CC",
-    "Url": "/product/dkp-8219944/\u0642\u0631\u0635-\u0634\u06CC\u0634\u0647-\u0634\u0648\u06CC-\u062E\u0648\u062F\u0631\u0648-\u0627\u062A\u0648-\u0644\u0627\u06CC\u0641-\u0645\u062F\u0644-ultra-\u0628\u0633\u062A\u0647-30-\u0639\u062F\u062F\u06CC",
-    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/9633863aafdffc7cb9033ad69873d3b0353d0e7e_1650633693.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-    "SellingPrice": 98600,
-    "RrpPrice": 145000,
-    "SoldPercentage": 0,
-    "Discount": 46400,
-    "DiscountPercent": 32
-  },
-  {
     "Id": "12452422",
     "AddDate": "2023-11-14T06:14:16.022605Z",
     "Timer": 8139,
@@ -9643,7 +9626,7 @@
     "AddDate": "2023-11-15T20:11:48.7447477Z",
     "Timer": 1085,
     "EndDate": "2023-11-15T20:29:53.7447477Z",
-    "Retries": 3,
+    "Retries": 4,
     "IsDone": false,
     "Error": "Bad Request: wrong file identifier/HTTP URL specified",
     "Title": "\u0622\u0628 \u0644\u06CC\u0645\u0648 \u0627\u0635\u0627\u0644\u062A \u0645\u0642\u062F\u0627\u0631 900 \u0645\u06CC\u0644\u06CC \u0644\u06CC\u062A\u0631",
