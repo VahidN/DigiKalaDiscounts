@@ -13411,5 +13411,22 @@
     "SoldPercentage": 0,
     "Discount": 9100,
     "DiscountPercent": 17
+  },
+  {
+    "Id": "2309086",
+    "AddDate": "2023-11-22T04:13:50.6548718Z",
+    "Timer": 231301,
+    "EndDate": "2023-11-24T20:28:51.6548718Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u0647\u0627\u0631\u062F \u0627\u06A9\u0633\u062A\u0631\u0646\u0627\u0644 \u0648\u0633\u062A\u0631\u0646 \u062F\u06CC\u062C\u06CC\u062A\u0627\u0644 \u0645\u062F\u0644 My Passport \u0638\u0631\u0641\u06CC\u062A 1 \u062A\u0631\u0627\u0628\u0627\u06CC\u062A",
+    "Url": "/product/dkp-2309086/\u0647\u0627\u0631\u062F-\u0627\u06A9\u0633\u062A\u0631\u0646\u0627\u0644-\u0648\u0633\u062A\u0631\u0646-\u062F\u06CC\u062C\u06CC\u062A\u0627\u0644-\u0645\u062F\u0644-my-passport-wdbyvg0010bbk-wesn-\u0638\u0631\u0641\u06CC\u062A-1-\u062A\u0631\u0627\u0628\u0627\u06CC\u062A",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/114928544.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 2450000,
+    "RrpPrice": 2890000,
+    "SoldPercentage": 0,
+    "Discount": 440000,
+    "DiscountPercent": 15
   }
 ]
