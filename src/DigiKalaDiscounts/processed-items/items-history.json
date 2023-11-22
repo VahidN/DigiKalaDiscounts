@@ -9711,7 +9711,7 @@
     "AddDate": "2023-11-21T20:10:47.4372783Z",
     "Timer": 1144,
     "EndDate": "2023-11-21T20:29:51.4372783Z",
-    "Retries": 3,
+    "Retries": 4,
     "IsDone": false,
     "Error": "Bad Request: wrong file identifier/HTTP URL specified",
     "Title": "\u0627\u0633 \u0627\u0633 \u062F\u06CC \u0627\u06CC\u0646\u062A\u0631\u0646\u0627\u0644 \u067E\u06CC \u0627\u0646 \u0648\u0627\u06CC \u0645\u062F\u0644 CS900 \u0638\u0631\u0641\u06CC\u062A 120 \u06AF\u06CC\u06AF\u0627\u0628\u0627\u06CC\u062A",
