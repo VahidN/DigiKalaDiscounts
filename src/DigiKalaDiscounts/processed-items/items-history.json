@@ -17644,5 +17644,22 @@
     "SoldPercentage": 0,
     "Discount": 4800,
     "DiscountPercent": 12
+  },
+  {
+    "Id": "10005277",
+    "AddDate": "2023-11-25T00:49:09.2692314Z",
+    "Timer": 157181,
+    "EndDate": "2023-11-26T20:28:50.2692314Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u0642\u0648\u0632\u0628\u0646\u062F \u0637\u0628\u06CC \u0645\u062F\u0644 SH 20",
+    "Url": "/product/dkp-10005277/\u0642\u0648\u0632\u0628\u0646\u062F-\u0637\u0628\u06CC-\u0645\u062F\u0644-sh-20",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/2217f470fd0e38169d1a4650737100298925d701_1669746889.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 135000,
+    "RrpPrice": 399000,
+    "SoldPercentage": 0,
+    "Discount": 264000,
+    "DiscountPercent": 66
   }
 ]
