@@ -11564,7 +11564,7 @@
     "AddDate": "2023-11-27T20:11:25.0154513Z",
     "Timer": 1104,
     "EndDate": "2023-11-27T20:29:49.0154513Z",
-    "Retries": 4,
+    "Retries": 5,
     "IsDone": false,
     "Error": "Bad Request: wrong file identifier/HTTP URL specified",
     "Title": "\u06A9\u0645\u067E\u0648\u062A \u0622\u0646\u0627\u0646\u0627\u0633 \u062D\u0644\u0642\u0647 \u0634\u062F\u0647 \u067E\u06CC\u06A9 - 565 \u06AF\u0631\u0645",
@@ -14193,5 +14193,22 @@
     "SoldPercentage": 0,
     "Discount": 2700,
     "DiscountPercent": 10
+  },
+  {
+    "Id": "6832214",
+    "AddDate": "2023-11-28T04:13:31.3328583Z",
+    "Timer": 58518,
+    "EndDate": "2023-11-28T20:28:49.3328583Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u0631\u0628 \u06AF\u0648\u062C\u0647 \u0641\u0631\u0646\u06AF\u06CC \u0686\u06CC\u0646 \u0686\u06CC\u0646 - 800 \u06AF\u0631\u0645",
+    "Url": "/product/dkp-6832214/\u0631\u0628-\u06AF\u0648\u062C\u0647-\u0641\u0631\u0646\u06AF\u06CC-\u0686\u06CC\u0646-\u0686\u06CC\u0646-800-\u06AF\u0631\u0645",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/9f47245fe80e369f6e336fe9fc967ad05dfdfcb2_1669442363.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 37000,
+    "RrpPrice": 55000,
+    "SoldPercentage": 0,
+    "Discount": 18000,
+    "DiscountPercent": 33
   }
 ]
