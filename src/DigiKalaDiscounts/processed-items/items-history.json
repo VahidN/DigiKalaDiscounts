@@ -1,39 +1,5 @@
 [
   {
-    "Id": "12212677",
-    "AddDate": "2023-11-26T18:12:55.5536393Z",
-    "Timer": 8154,
-    "EndDate": "2023-11-26T20:28:49.5536393Z",
-    "Retries": 0,
-    "IsDone": true,
-    "Error": "",
-    "Title": "\u0633\u0627\u0639\u062A \u0647\u0648\u0634\u0645\u0646\u062F \u0633\u0627\u0645\u0633\u0648\u0646\u06AF \u0645\u062F\u0644 Galaxy Watch6 Classic 47mm",
-    "Url": "/product/dkp-12212677/\u0633\u0627\u0639\u062A-\u0647\u0648\u0634\u0645\u0646\u062F-\u0633\u0627\u0645\u0633\u0648\u0646\u06AF-\u0645\u062F\u0644-galaxy-watch6-classic-47mm",
-    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/a88b419f47b74c34086751c0f44ffbb2225230f1_1690715344.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-    "SellingPrice": 12699000,
-    "RrpPrice": 13000000,
-    "SoldPercentage": 0,
-    "Discount": 301000,
-    "DiscountPercent": 2
-  },
-  {
-    "Id": "197347",
-    "AddDate": "2023-11-26T18:12:50.7398397Z",
-    "Timer": 180959,
-    "EndDate": "2023-11-28T20:28:49.7398397Z",
-    "Retries": 0,
-    "IsDone": true,
-    "Error": "",
-    "Title": "\u067E\u0648\u0634\u06A9 \u0645\u0627\u06CC \u0628\u06CC\u0628\u06CC \u0622\u0628\u06CC \u0633\u0631\u06CC \u0645\u0647\u0631\u0628\u0627\u0646 \u0628\u0627 \u067E\u0648\u0633\u062A \u0633\u0627\u06CC\u0632 4 \u0628\u0633\u062A\u0647 34 \u0639\u062F\u062F\u06CC",
-    "Url": "/product/dkp-197347/\u067E\u0648\u0634\u06A9-\u0645\u0627\u06CC-\u0628\u06CC\u0628\u06CC-\u0622\u0628\u06CC-\u0633\u0631\u06CC-\u0645\u0647\u0631\u0628\u0627\u0646-\u0628\u0627-\u067E\u0648\u0633\u062A-\u0633\u0627\u06CC\u0632-4-\u0628\u0633\u062A\u0647-34-\u0639\u062F\u062F\u06CC",
-    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/28c9eb4b2db858cc3b91a5d3e056010b7b59627a_1695451476.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-    "SellingPrice": 133000,
-    "RrpPrice": 165850,
-    "SoldPercentage": 0,
-    "Discount": 32850,
-    "DiscountPercent": 20
-  },
-  {
     "Id": "10468438",
     "AddDate": "2023-11-26T20:11:14.7072482Z",
     "Timer": 1115,
@@ -7280,7 +7246,7 @@
     "AddDate": "2023-11-27T14:11:01.9974807Z",
     "Timer": 109067,
     "EndDate": "2023-11-28T20:28:48.9974807Z",
-    "Retries": 11,
+    "Retries": 12,
     "IsDone": false,
     "Error": "Bad Request: wrong file identifier/HTTP URL specified",
     "Title": "\u067E\u0627\u0648\u0631\u0628\u0627\u0646\u06A9 \u0628\u06CC \u0633\u06CC\u0645 \u0633\u0627\u0645\u0633\u0648\u0646\u06AF \u0645\u062F\u0644 EB-U1200 \u0638\u0631\u0641\u06CC\u062A 10000 \u0645\u06CC\u0644\u06CC \u0622\u0645\u067E\u0631 \u0633\u0627\u0639\u062A",
@@ -13870,5 +13836,22 @@
     "SoldPercentage": 0,
     "Discount": 8500,
     "DiscountPercent": 34
+  },
+  {
+    "Id": "12212677",
+    "AddDate": "2023-11-28T18:14:25.478758Z",
+    "Timer": 8063,
+    "EndDate": "2023-11-28T20:28:48.478758Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u0633\u0627\u0639\u062A \u0647\u0648\u0634\u0645\u0646\u062F \u0633\u0627\u0645\u0633\u0648\u0646\u06AF \u0645\u062F\u0644 Galaxy Watch6 Classic 47mm",
+    "Url": "/product/dkp-12212677/\u0633\u0627\u0639\u062A-\u0647\u0648\u0634\u0645\u0646\u062F-\u0633\u0627\u0645\u0633\u0648\u0646\u06AF-\u0645\u062F\u0644-galaxy-watch6-classic-47mm",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/a88b419f47b74c34086751c0f44ffbb2225230f1_1690715344.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 12699900,
+    "RrpPrice": 13000000,
+    "SoldPercentage": 37,
+    "Discount": 300100,
+    "DiscountPercent": 2
   }
 ]
