@@ -9093,5 +9093,22 @@
     "SoldPercentage": 0,
     "Discount": 2356000,
     "DiscountPercent": 76
+  },
+  {
+    "Id": "13530863",
+    "AddDate": "2023-12-07T12:21:13.3812127Z",
+    "Timer": 13112,
+    "EndDate": "2023-12-07T15:59:45.3812127Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u0633\u0627\u0639\u062A \u0647\u0648\u0634\u0645\u0646\u062F \u0647\u067E\u06CC \u062A\u0627\u0686 \u0645\u062F\u0644 AK56 Outdoor Sport",
+    "Url": "/product/dkp-13530863/\u0633\u0627\u0639\u062A-\u0647\u0648\u0634\u0645\u0646\u062F-\u0647\u067E\u06CC-\u062A\u0627\u0686-\u0645\u062F\u0644-ak56-outdoor-sport",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/db8bb48bca53e9c98b44fbca639aa4794f0723da_1701201622.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 2995000,
+    "RrpPrice": 5990000,
+    "SoldPercentage": 0,
+    "Discount": 2995000,
+    "DiscountPercent": 50
   }
 ]
