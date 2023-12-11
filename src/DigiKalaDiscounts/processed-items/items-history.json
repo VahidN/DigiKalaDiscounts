@@ -9025,5 +9025,22 @@
     "SoldPercentage": 0,
     "Discount": 570000,
     "DiscountPercent": 47
+  },
+  {
+    "Id": "9997863",
+    "AddDate": "2023-12-11T04:14:10.5283394Z",
+    "Timer": 144873,
+    "EndDate": "2023-12-12T20:28:43.5283394Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": " \u0628\u062E\u0627\u0631\u06CC \u067E\u0646\u06A9\u0647 \u0627\u06CC \u0633\u0627\u0646\u06CC \u0645\u062F\u0644 Azarin",
+    "Url": "/product/dkp-9997863/\u0628\u062E\u0627\u0631\u06CC-\u067E\u0646\u06A9\u0647-\u0627\u06CC-\u0633\u0627\u0646\u06CC-\u0645\u062F\u0644-azarin",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/7e30c296293277cb5407249306ef3d87e98d16eb_1669703061.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 2373100,
+    "RrpPrice": 2645000,
+    "SoldPercentage": 0,
+    "Discount": 271900,
+    "DiscountPercent": 10
   }
 ]
