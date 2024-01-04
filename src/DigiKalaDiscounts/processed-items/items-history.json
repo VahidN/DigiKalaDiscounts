@@ -7246,7 +7246,7 @@
     "AddDate": "2024-01-03T20:12:12.4531917Z",
     "Timer": 1061,
     "EndDate": "2024-01-03T20:29:53.4531917Z",
-    "Retries": 5,
+    "Retries": 6,
     "IsDone": false,
     "Error": "Bad Request: wrong file identifier/HTTP URL specified",
     "Title": "\u0633\u062A \u062A\u06CC \u0634\u0631\u062A \u0622\u0633\u062A\u06CC\u0646 \u0628\u0644\u0646\u062F \u0648 \u0634\u0644\u0648\u0627\u0631 \u0628\u0686\u06AF\u0627\u0646\u0647 \u0633\u067E\u06CC\u062F\u067E\u0648\u0634 \u0645\u062F\u0644 \u06AF\u0631\u0628\u0647 \u06A9\u062F 1402601",
