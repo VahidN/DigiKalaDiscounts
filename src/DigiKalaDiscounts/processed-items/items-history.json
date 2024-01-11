@@ -10521,5 +10521,39 @@
     "SoldPercentage": 0,
     "Discount": 15400,
     "DiscountPercent": 28
+  },
+  {
+    "Id": "6574169",
+    "AddDate": "2024-01-11T10:12:09.1175747Z",
+    "Timer": 37012,
+    "EndDate": "2024-01-11T20:29:01.1175747Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u0634\u0627\u0645\u067E\u0648 \u0636\u062F \u0634\u0648\u0631\u0647 \u0648 \u0636\u062F \u0631\u06CC\u0632\u0634 \u0622\u0642\u0627\u06CC\u0627\u0646 \u06A9\u0644\u06CC\u06CC\u0631 \u0645\u062F\u0644 Hairfall Defense \u062D\u062C\u0645 400 \u0645\u06CC\u0644\u06CC \u0644\u06CC\u062A\u0631",
+    "Url": "/product/dkp-6574169/\u0634\u0627\u0645\u067E\u0648-\u0636\u062F-\u0634\u0648\u0631\u0647-\u0648-\u0636\u062F-\u0631\u06CC\u0632\u0634-\u0622\u0642\u0627\u06CC\u0627\u0646-\u06A9\u0644\u06CC\u06CC\u0631-\u0645\u062F\u0644-hairfall-defense-\u062D\u062C\u0645-400-\u0645\u06CC\u0644\u06CC-\u0644\u06CC\u062A\u0631",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/ff974afcc2b0bc5404731dd602bd490cde7a411b_1636550270.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 85900,
+    "RrpPrice": 128900,
+    "SoldPercentage": 0,
+    "Discount": 43000,
+    "DiscountPercent": 33
+  },
+  {
+    "Id": "11575956",
+    "AddDate": "2024-01-11T10:12:11.7031097Z",
+    "Timer": 37069,
+    "EndDate": "2024-01-11T20:30:00.7031097Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u0646\u0628\u0627\u062A \u0646\u06AF\u06CC\u0646 \u0632\u0639\u0641\u0631\u0627\u0646\u06CC \u0645\u0635\u0637\u0641\u0648\u06CC - 400 \u06AF\u0631\u0645",
+    "Url": "/product/dkp-11575956/\u0646\u0628\u0627\u062A-\u0646\u06AF\u06CC\u0646-\u0632\u0639\u0641\u0631\u0627\u0646\u06CC-\u0645\u0635\u0637\u0641\u0648\u06CC-400-\u06AF\u0631\u0645",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/355685c1336a3d76c496da1b5e40d89df484df7a_1686053296.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 39900,
+    "RrpPrice": 73700,
+    "SoldPercentage": 0,
+    "Discount": 33800,
+    "DiscountPercent": 46
   }
 ]
