@@ -1,22 +1,5 @@
 [
   {
-    "Id": "13835004",
-    "AddDate": "2024-01-23T00:53:56.5792311Z",
-    "Timer": 12959,
-    "EndDate": "2024-01-23T04:29:55.5792311Z",
-    "Retries": 0,
-    "IsDone": true,
-    "Error": "",
-    "Title": "\u0647\u0646\u062F\u0632\u0641\u0631\u06CC \u0628\u0644\u0648\u062A\u0648\u062B\u06CC \u0631\u06CC\u0645\u06A9\u0633 \u0645\u062F\u0644 AirPods Pro 2nd Type-C",
-    "Url": "/product/dkp-13835004/\u0647\u0646\u062F\u0632\u0641\u0631\u06CC-\u0628\u0644\u0648\u062A\u0648\u062B\u06CC-\u0631\u06CC\u0645\u06A9\u0633-\u0645\u062F\u0644-airpods-pro-2nd-type-c",
-    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/67c3baeba2991353e438f791b3943a5d46c4a495_1704639779.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-    "SellingPrice": 2350000,
-    "RrpPrice": 5000000,
-    "SoldPercentage": 0,
-    "Discount": 2650000,
-    "DiscountPercent": 53
-  },
-  {
     "Id": "13983871",
     "AddDate": "2024-01-23T06:15:25.0772313Z",
     "Timer": 8071,
@@ -10980,5 +10963,22 @@
     "SoldPercentage": 61,
     "Discount": 6600,
     "DiscountPercent": 20
+  },
+  {
+    "Id": "13835004",
+    "AddDate": "2024-01-25T02:28:25.818668Z",
+    "Timer": 7289,
+    "EndDate": "2024-01-25T04:29:54.818668Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u0647\u0646\u062F\u0632\u0641\u0631\u06CC \u0628\u0644\u0648\u062A\u0648\u062B\u06CC \u0631\u06CC\u0645\u06A9\u0633 \u0645\u062F\u0644 AirPods Pro 2nd Type-C",
+    "Url": "/product/dkp-13835004/\u0647\u0646\u062F\u0632\u0641\u0631\u06CC-\u0628\u0644\u0648\u062A\u0648\u062B\u06CC-\u0631\u06CC\u0645\u06A9\u0633-\u0645\u062F\u0644-airpods-pro-2nd-type-c",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/67c3baeba2991353e438f791b3943a5d46c4a495_1704639779.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 2350000,
+    "RrpPrice": 5000000,
+    "SoldPercentage": 0,
+    "Discount": 2650000,
+    "DiscountPercent": 53
   }
 ]
