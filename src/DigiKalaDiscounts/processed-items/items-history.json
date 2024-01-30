@@ -1,22 +1,5 @@
 [
   {
-    "Id": "12784577",
-    "AddDate": "2024-01-28T14:08:38.1062078Z",
-    "Timer": 109215,
-    "EndDate": "2024-01-29T20:28:53.1062078Z",
-    "Retries": 0,
-    "IsDone": true,
-    "Error": "",
-    "Title": "\u0647\u062F\u0641\u0648\u0646 \u0628\u0644\u0648\u062A\u0648\u062B\u06CC \u0627\u0646\u06A9\u0631 \u0645\u062F\u0644 Soundcore P25i",
-    "Url": "/product/dkp-12784577/\u0647\u062F\u0641\u0648\u0646-\u0628\u0644\u0648\u062A\u0648\u062B\u06CC-\u0627\u0646\u06A9\u0631-\u0645\u062F\u0644-soundcore-p25i",
-    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/6f1f18c2e6e2e3c074dc19d3f503f25161c04f5b_1695711839.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-    "SellingPrice": 999000,
-    "RrpPrice": 1400000,
-    "SoldPercentage": 0,
-    "Discount": 401000,
-    "DiscountPercent": 29
-  },
-  {
     "Id": "10080296",
     "AddDate": "2024-01-28T16:11:36.1387434Z",
     "Timer": 15497,
@@ -9671,5 +9654,22 @@
     "SoldPercentage": 0,
     "Discount": 8250,
     "DiscountPercent": 15
+  },
+  {
+    "Id": "12889034",
+    "AddDate": "2024-01-30T14:10:14.4804413Z",
+    "Timer": 22778,
+    "EndDate": "2024-01-30T20:29:52.4804413Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u062C\u0644\u06CC\u0642\u0647 \u0645\u0631\u062F\u0627\u0646\u0647 \u0645\u062F\u0644 M3540",
+    "Url": "/product/dkp-12889034/\u062C\u0644\u06CC\u0642\u0647-\u0645\u0631\u062F\u0627\u0646\u0647-\u0645\u062F\u0644-m3540",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/d476bfc88c9b961e46fa6914c02a297ead1b8e1f_1696436802.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 397000,
+    "RrpPrice": 800000,
+    "SoldPercentage": 0,
+    "Discount": 403000,
+    "DiscountPercent": 50
   }
 ]
