@@ -1,22 +1,5 @@
 [
   {
-    "Id": "13792839",
-    "AddDate": "2024-01-28T12:17:01.1941938Z",
-    "Timer": 29572,
-    "EndDate": "2024-01-28T20:29:53.1941938Z",
-    "Retries": 0,
-    "IsDone": true,
-    "Error": "",
-    "Title": "\u0646\u06CC\u0645 \u0628\u0648\u062A \u062F\u062E\u062A\u0631\u0627\u0646\u0647 \u062F\u0646\u062F\u06CC \u0645\u062F\u0644 dnd-klng01",
-    "Url": "/product/dkp-13792839/\u0646\u06CC\u0645-\u0628\u0648\u062A-\u062F\u062E\u062A\u0631\u0627\u0646\u0647-\u062F\u0646\u062F\u06CC-\u0645\u062F\u0644-dnd-klng01",
-    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/fb4892cc8b87dd53c5d55a2d845a8889d8b97d9a_1702987101.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-    "SellingPrice": 729000,
-    "RrpPrice": 1879000,
-    "SoldPercentage": 0,
-    "Discount": 1150000,
-    "DiscountPercent": 61
-  },
-  {
     "Id": "12784577",
     "AddDate": "2024-01-28T14:08:38.1062078Z",
     "Timer": 109215,
@@ -9654,5 +9637,39 @@
     "SoldPercentage": 0,
     "Discount": 4100,
     "DiscountPercent": 10
+  },
+  {
+    "Id": "12800951",
+    "AddDate": "2024-01-30T12:19:06.8680997Z",
+    "Timer": 13246,
+    "EndDate": "2024-01-30T15:59:52.8680997Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u06A9\u0648\u0644\u0647 \u067E\u0634\u062A\u06CC \u0641\u0648\u0631\u0648\u0627\u0631\u062F \u06A9\u062F FCLT33NW",
+    "Url": "/product/dkp-12800951/\u06A9\u0648\u0644\u0647-\u067E\u0634\u062A\u06CC-\u0641\u0648\u0631\u0648\u0627\u0631\u062F-\u06A9\u062F-fclt33nw",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/b7ab75a83f7ef60eebf17b73c150463f05645165_1695798862.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 559000,
+    "RrpPrice": 1199000,
+    "SoldPercentage": 0,
+    "Discount": 640000,
+    "DiscountPercent": 53
+  },
+  {
+    "Id": "459973",
+    "AddDate": "2024-01-30T12:19:00.9591649Z",
+    "Timer": 202192,
+    "EndDate": "2024-02-01T20:28:52.9591649Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u0631\u0628 \u06AF\u0648\u062C\u0647 \u0641\u0631\u0646\u06AF\u06CC \u0631\u0648\u0698\u06CC\u0646 \u0645\u0642\u062F\u0627\u0631 800 \u06AF\u0631\u0645 ",
+    "Url": "/product/dkp-459973/\u0631\u0628-\u06AF\u0648\u062C\u0647-\u0641\u0631\u0646\u06AF\u06CC-\u0631\u0648\u0698\u06CC\u0646-\u0645\u0642\u062F\u0627\u0631-800-\u06AF\u0631\u0645",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/7c391ac4335c87cc49b458650470ac240a6bf7da_1619600774.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 46750,
+    "RrpPrice": 55000,
+    "SoldPercentage": 0,
+    "Discount": 8250,
+    "DiscountPercent": 15
   }
 ]
