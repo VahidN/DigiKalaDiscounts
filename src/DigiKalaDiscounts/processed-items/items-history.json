@@ -10011,5 +10011,22 @@
     "SoldPercentage": 0,
     "Discount": 1000,
     "DiscountPercent": 1
+  },
+  {
+    "Id": "13115069",
+    "AddDate": "2024-02-08T08:13:36.4323518Z",
+    "Timer": 44172,
+    "EndDate": "2024-02-08T20:29:48.4323518Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u062C\u0627\u0631\u0648\u0628\u0631\u0642\u06CC \u0631\u0648\u0628\u0648\u0631\u0627\u06A9 \u0645\u062F\u0644 S8 Plus",
+    "Url": "/product/dkp-13115069/\u062C\u0627\u0631\u0648\u0628\u0631\u0642\u06CC-\u0631\u0648\u0628\u0648\u0631\u0627\u06A9-\u0645\u062F\u0644-roborock-s8-plus",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/91c574af83af6a34cbad5c322adfa77e02955cd9_1698132433.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 53350000,
+    "RrpPrice": 64884000,
+    "SoldPercentage": 0,
+    "Discount": 11534000,
+    "DiscountPercent": 18
   }
 ]
