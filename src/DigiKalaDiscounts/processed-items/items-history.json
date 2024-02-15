@@ -9756,5 +9756,22 @@
     "SoldPercentage": 0,
     "Discount": 21510,
     "DiscountPercent": 32
+  },
+  {
+    "Id": "113798",
+    "AddDate": "2024-02-15T14:09:46.9779796Z",
+    "Timer": 22739,
+    "EndDate": "2024-02-15T20:28:45.9779796Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u0645\u0627\u06CC\u0639 \u0633\u0641\u06CC\u062F\u06A9\u0646\u0646\u062F\u0647 \u063A\u0644\u06CC\u0638 \u0633\u0637\u0648\u062D \u062F\u0627\u0645\u0633\u062A\u0648\u0633 \u0645\u062F\u0644 Eucalyptus Freshness \u062D\u062C\u0645 750 \u0645\u06CC\u0644\u06CC \u0644\u06CC\u062A\u0631",
+    "Url": "/product/dkp-113798/\u0645\u0627\u06CC\u0639-\u0633\u0641\u06CC\u062F\u06A9\u0646\u0646\u062F\u0647-\u063A\u0644\u06CC\u0638-\u0633\u0637\u0648\u062D-\u062F\u0627\u0645\u0633\u062A\u0648\u0633-\u0645\u062F\u0644-eucalyptus-freshness-\u062D\u062C\u0645-750-\u0645\u06CC\u0644\u06CC-\u0644\u06CC\u062A\u0631",
+    "ImageUrl": "https://dkstatics-private.digikala.com/digikala-products/7b035d0cbbb37ebe8b720600ff6db417641480af_1630934581.jpg?OSSAccessKeyId=LTAIPClJziKGRUZJ\u0026Expires=1941974582\u0026Signature=wm4NmSLjXrp0p9CDVBR3aHLiHuI%3D",
+    "SellingPrice": 30900,
+    "RrpPrice": 45400,
+    "SoldPercentage": 0,
+    "Discount": 14500,
+    "DiscountPercent": 32
   }
 ]
