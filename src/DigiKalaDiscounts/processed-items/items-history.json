@@ -11694,5 +11694,39 @@
     "SoldPercentage": 0,
     "Discount": 78030,
     "DiscountPercent": 30
+  },
+  {
+    "Id": "13976040",
+    "AddDate": "2024-02-20T02:15:59.6951111Z",
+    "Timer": 8025,
+    "EndDate": "2024-02-20T04:29:44.6951111Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u0627\u0633\u067E\u06CC\u06A9\u0631 \u0628\u0644\u0648\u062A\u0648\u062B\u06CC \u0642\u0627\u0628\u0644 \u062D\u0645\u0644 \u0645\u062F\u0644  ZQS-4271",
+    "Url": "/product/dkp-13976040/\u0627\u0633\u067E\u06CC\u06A9\u0631-\u0628\u0644\u0648\u062A\u0648\u062B\u06CC-\u0642\u0627\u0628\u0644-\u062D\u0645\u0644-\u0645\u062F\u0644-zqs-4271",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/d7e7f04131c0eb31be321f84c9ba375e7cc06cb8_1704213510.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 469000,
+    "RrpPrice": 798000,
+    "SoldPercentage": 0,
+    "Discount": 329000,
+    "DiscountPercent": 41
+  },
+  {
+    "Id": "14198965",
+    "AddDate": "2024-02-20T02:15:59.1149616Z",
+    "Timer": 238365,
+    "EndDate": "2024-02-22T20:28:44.1149616Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u06A9\u0648\u0644\u0647 \u067E\u0634\u062A\u06CC \u0633\u0641\u0631\u06CC \u062F\u06CC\u06A9\u0645\u067E \u0645\u062F\u0644 TRAVEL-35-006",
+    "Url": "/product/dkp-14198965/\u06A9\u0648\u0644\u0647-\u067E\u0634\u062A\u06CC-\u0633\u0641\u0631\u06CC-\u062F\u06CC\u06A9\u0645\u067E-\u0645\u062F\u0644-travel-35-006",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/16edbdecb86ad3ba72f6c04cf92ef7d32717af1a_1705989282.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 449000,
+    "RrpPrice": 750000,
+    "SoldPercentage": 0,
+    "Discount": 301000,
+    "DiscountPercent": 40
   }
 ]
