@@ -12476,5 +12476,39 @@
     "SoldPercentage": 0,
     "Discount": 15100,
     "DiscountPercent": 38
+  },
+  {
+    "Id": "13623547",
+    "AddDate": "2024-02-22T04:12:40.2914593Z",
+    "Timer": 1023,
+    "EndDate": "2024-02-22T04:29:43.2914593Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u0647\u062F\u0641\u0648\u0646 \u0628\u0644\u0648\u062A\u0648\u062B\u06CC \u0646\u06CC\u0627 \u0645\u062F\u0644 AirPods AIR36",
+    "Url": "/product/dkp-13623547/\u0647\u062F\u0641\u0648\u0646-\u0628\u0644\u0648\u062A\u0648\u062B\u06CC-\u0646\u06CC\u0627-\u0645\u062F\u0644-airpods-air36",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/bc9aa0cb1c18a969d6ea16c787a437c731404984_1701854279.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 575000,
+    "RrpPrice": 1900000,
+    "SoldPercentage": 0,
+    "Discount": 1325000,
+    "DiscountPercent": 70
+  },
+  {
+    "Id": "5130606",
+    "AddDate": "2024-02-22T04:12:32.9121047Z",
+    "Timer": 58571,
+    "EndDate": "2024-02-22T20:28:43.9121047Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u06A9\u0631\u0647 \u0634\u06A9\u0644\u06CC - 50 \u06AF\u0631\u0645 \u0628\u0633\u062A\u0647 6 \u0639\u062F\u062F\u06CC",
+    "Url": "/product/dkp-5130606/\u06A9\u0631\u0647-\u0634\u06A9\u0644\u06CC-50-\u06AF\u0631\u0645-\u0628\u0633\u062A\u0647-6-\u0639\u062F\u062F\u06CC",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/c9d680a6f435a00bb66ce8829c19a40ef5fe4678_1620820609.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 86400,
+    "RrpPrice": 108000,
+    "SoldPercentage": 0,
+    "Discount": 21600,
+    "DiscountPercent": 20
   }
 ]
