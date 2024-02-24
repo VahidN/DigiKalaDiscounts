@@ -10623,5 +10623,22 @@
     "SoldPercentage": 0,
     "Discount": 55000,
     "DiscountPercent": 14
+  },
+  {
+    "Id": "14271035",
+    "AddDate": "2024-02-24T12:17:13.9342702Z",
+    "Timer": 13349,
+    "EndDate": "2024-02-24T15:59:42.9342702Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u0639\u06CC\u0646\u06A9 \u0622\u0641\u062A\u0627\u0628\u06CC \u0644\u0627\u06AF\u0648\u0633\u062A \u0645\u062F\u0644 L8413 56 17 135  POLARIZED GH",
+    "Url": "/product/dkp-14271035/\u0639\u06CC\u0646\u06A9-\u0622\u0641\u062A\u0627\u0628\u06CC-\u0644\u0627\u06AF\u0648\u0633\u062A-\u0645\u062F\u0644-l8413-56-17-135-polarized-gh",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/84c95556f460313097b18a2482e52e03dd16325a_1706689720.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 697000,
+    "RrpPrice": 4000000,
+    "SoldPercentage": 0,
+    "Discount": 3303000,
+    "DiscountPercent": 83
   }
 ]
