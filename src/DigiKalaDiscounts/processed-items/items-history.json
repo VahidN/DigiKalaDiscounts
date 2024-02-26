@@ -1,22 +1,5 @@
 [
   {
-    "Id": "14271035",
-    "AddDate": "2024-02-24T12:17:13.9342702Z",
-    "Timer": 13349,
-    "EndDate": "2024-02-24T15:59:42.9342702Z",
-    "Retries": 0,
-    "IsDone": true,
-    "Error": "",
-    "Title": "\u0639\u06CC\u0646\u06A9 \u0622\u0641\u062A\u0627\u0628\u06CC \u0644\u0627\u06AF\u0648\u0633\u062A \u0645\u062F\u0644 L8413 56 17 135  POLARIZED GH",
-    "Url": "/product/dkp-14271035/\u0639\u06CC\u0646\u06A9-\u0622\u0641\u062A\u0627\u0628\u06CC-\u0644\u0627\u06AF\u0648\u0633\u062A-\u0645\u062F\u0644-l8413-56-17-135-polarized-gh",
-    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/84c95556f460313097b18a2482e52e03dd16325a_1706689720.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-    "SellingPrice": 697000,
-    "RrpPrice": 4000000,
-    "SoldPercentage": 0,
-    "Discount": 3303000,
-    "DiscountPercent": 83
-  },
-  {
     "Id": "123475",
     "AddDate": "2024-02-24T14:08:51.4540674Z",
     "Timer": 109191,
@@ -11286,5 +11269,39 @@
     "SoldPercentage": 0,
     "Discount": 5990,
     "DiscountPercent": 15
+  },
+  {
+    "Id": "10863954",
+    "AddDate": "2024-02-26T12:19:51.9393651Z",
+    "Timer": 13190,
+    "EndDate": "2024-02-26T15:59:41.9393651Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u0633\u0627\u0628 \u0648\u0648\u0641\u0631 \u062E\u0648\u062F\u0631\u0648 \u0647\u0645\u0631\u062A\u06A9 \u0645\u062F\u0644 LCW 15D2",
+    "Url": "/product/dkp-10863954/\u0633\u0627\u0628-\u0648\u0648\u0641\u0631-\u062E\u0648\u062F\u0631\u0648-\u0647\u0645\u0631\u062A\u06A9-\u0645\u062F\u0644-lcw-15d2",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/03401ac74bb41ee36107c76304aae86561218aa2_1678457714.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 19106850,
+    "RrpPrice": 20545000,
+    "SoldPercentage": 0,
+    "Discount": 1438150,
+    "DiscountPercent": 7
+  },
+  {
+    "Id": "12538416",
+    "AddDate": "2024-02-26T12:19:51.9393651Z",
+    "Timer": 13190,
+    "EndDate": "2024-02-26T15:59:41.9393651Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u0645\u0648\u062F\u0645  4.5G \u062A\u06CC \u0645\u0648\u0628\u0627\u06CC\u0644 \u0645\u062F\u0644 HA35-22",
+    "Url": "/product/dkp-12538416/\u0645\u0648\u062F\u0645-45g-\u062A\u06CC-\u0645\u0648\u0628\u0627\u06CC\u0644-\u0645\u062F\u0644-ha35-22",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/f798d8c408c05e528c744e3945d37393166afac2_1693396523.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 2520000,
+    "RrpPrice": 3500000,
+    "SoldPercentage": 0,
+    "Discount": 980000,
+    "DiscountPercent": 28
   }
 ]
