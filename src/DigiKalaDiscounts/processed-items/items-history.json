@@ -1,22 +1,5 @@
 [
   {
-    "Id": "14588485",
-    "AddDate": "2024-03-10T00:52:17.4554118Z",
-    "Timer": 13058,
-    "EndDate": "2024-03-10T04:29:55.4554118Z",
-    "Retries": 0,
-    "IsDone": true,
-    "Error": "",
-    "Title": "\u0647\u062F\u0641\u0648\u0646 \u0628\u0644\u0648\u062A\u0648\u062B\u06CC \u0648\u0648\u0646\u06A9 \u0645\u062F\u0644   AirPods Pro 2nd 2024 \u0628\u0647 \u0647\u0645\u0631\u0627\u0647 \u06A9\u0627\u0648\u0631",
-    "Url": "/product/dkp-14588485/\u0647\u062F\u0641\u0648\u0646-\u0628\u0644\u0648\u062A\u0648\u062B\u06CC-\u0648\u0648\u0646\u06A9-\u0645\u062F\u0644-airpods-pro-2nd-2024-\u0628\u0647-\u0647\u0645\u0631\u0627\u0647-\u06A9\u0627\u0648\u0631",
-    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/46300726845f70dddf2a0c3a1ab9a77db03d3f09_1709017339.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-    "SellingPrice": 710500,
-    "RrpPrice": 1450000,
-    "SoldPercentage": 0,
-    "Discount": 739500,
-    "DiscountPercent": 51
-  },
-  {
     "Id": "14646833",
     "AddDate": "2024-03-10T06:12:52.3193361Z",
     "Timer": 8223,
@@ -9756,5 +9739,22 @@
     "SoldPercentage": 0,
     "Discount": 26100,
     "DiscountPercent": 17
+  },
+  {
+    "Id": "14726462",
+    "AddDate": "2024-03-12T02:16:12.5091801Z",
+    "Timer": 8022,
+    "EndDate": "2024-03-12T04:29:54.5091801Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u0647\u0646\u062F\u0632\u0641\u0631\u06CC \u0628\u0644\u0648\u062A\u0648\u062B\u06CC \u06A9\u0648\u06A9\u0644\u0627\u0633\u06CC\u06A9 \u0645\u062F\u0644 AIR1PLUS",
+    "Url": "/product/dkp-14726462/\u0647\u0646\u062F\u0632\u0641\u0631\u06CC-\u0628\u0644\u0648\u062A\u0648\u062B\u06CC-\u06A9\u0648\u06A9\u0644\u0627\u0633\u06CC\u06A9-\u0645\u062F\u0644-air1plus",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/a680bb80aac80a5ceb53ef05ae088a8e291cf4bf_1709669087.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 1450000,
+    "RrpPrice": 3500000,
+    "SoldPercentage": 0,
+    "Discount": 2050000,
+    "DiscountPercent": 59
   }
 ]
