@@ -8005,5 +8005,22 @@
     "SoldPercentage": 0,
     "Discount": 28900,
     "DiscountPercent": 20
+  },
+  {
+    "Id": "4370956",
+    "AddDate": "2024-03-19T00:48:58.8910818Z",
+    "Timer": 13253,
+    "EndDate": "2024-03-19T04:29:51.8910818Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u0645\u06CC\u06A9\u0631\u0648\u0641\u0646 \u06A9\u0646\u062F\u0627\u0646\u0633\u0631\u00A0\u0645\u0627\u0648\u0646\u0648 \u0645\u062F\u0644 AU-PM422",
+    "Url": "/product/dkp-4370956/\u0645\u06CC\u06A9\u0631\u0648\u0641\u0646-\u06A9\u0646\u062F\u0627\u0646\u0633\u0631-\u0645\u0627\u0648\u0646\u0648-\u0645\u062F\u0644-au-pm422",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/ff8abd2d6a9be58a44f6d9ea565556c2d14df898_1612193918.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 3476000,
+    "RrpPrice": 3950000,
+    "SoldPercentage": 0,
+    "Discount": 474000,
+    "DiscountPercent": 12
   }
 ]
