@@ -6322,5 +6322,39 @@
     "SoldPercentage": 0,
     "Discount": 988000,
     "DiscountPercent": 52
+  },
+  {
+    "Id": "11402685",
+    "AddDate": "2024-03-20T06:14:12.2042961Z",
+    "Timer": 8139,
+    "EndDate": "2024-03-20T08:29:51.2042961Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u0633\u0631\u0648\u06CC\u0633 \u0686\u0627\u06CC \u062E\u0648\u0631\u06CC 17 \u067E\u0627\u0631\u0686\u0647 \u0645\u062F\u0644 \u0634\u0627\u0647 \u0639\u0628\u0627\u0633\u064A",
+    "Url": "/product/dkp-11402685/\u0633\u0631\u0648\u06CC\u0633-\u0686\u0627\u06CC-\u062E\u0648\u0631\u06CC-17-\u067E\u0627\u0631\u0686\u0647-\u0645\u062F\u0644-\u0634\u0627\u0647-\u0639\u0628\u0627\u0633\u064A",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/d284acd7a94dbd8ffae5d34950626a94af87c780_1684683001.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 958400,
+    "RrpPrice": 1198000,
+    "SoldPercentage": 0,
+    "Discount": 239600,
+    "DiscountPercent": 20
+  },
+  {
+    "Id": "14538418",
+    "AddDate": "2024-03-20T06:14:13.2338509Z",
+    "Timer": 8138,
+    "EndDate": "2024-03-20T08:29:51.2338509Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u0628\u0627\u062A\u0631\u06CC \u0642\u0644\u0645\u06CC \u0642\u0627\u0628\u0644 \u0634\u0627\u0631\u0698 \u0648\u0631\u06CC\u062A\u06CC \u0645\u062F\u0644 HR6 \u0638\u0631\u0641\u06CC\u062A 2500 \u0645\u06CC\u0644\u06CC \u0622\u0645\u067E\u0631 \u0633\u0627\u0639\u062A \u0628\u0633\u062A\u0647 \u062F\u0648 \u0639\u062F\u062F\u06CC",
+    "Url": "/product/dkp-14538418/\u0628\u0627\u062A\u0631\u06CC-\u0642\u0644\u0645\u06CC-\u0642\u0627\u0628\u0644-\u0634\u0627\u0631\u0698-\u0648\u0631\u06CC\u062A\u06CC-\u0645\u062F\u0644-hr6-\u0638\u0631\u0641\u06CC\u062A-2500-\u0645\u06CC\u0644\u06CC-\u0622\u0645\u067E\u0631-\u0633\u0627\u0639\u062A-\u0628\u0633\u062A\u0647-\u062F\u0648-\u0639\u062F\u062F\u06CC",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/af44eff0b80bf313f0b17934c3c515a631d2d1fa_1708580597.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 170000,
+    "RrpPrice": 289000,
+    "SoldPercentage": 0,
+    "Discount": 119000,
+    "DiscountPercent": 41
   }
 ]
