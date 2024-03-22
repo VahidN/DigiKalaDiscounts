@@ -1,22 +1,5 @@
 [
   {
-    "Id": "14682928",
-    "AddDate": "2024-03-20T00:48:27.2758977Z",
-    "Timer": 13284,
-    "EndDate": "2024-03-20T04:29:51.2758977Z",
-    "Retries": 0,
-    "IsDone": true,
-    "Error": "",
-    "Title": "\u0647\u062F\u0633\u062A \u0628\u0644\u0648\u062A\u0648\u062B\u06CC \u0646\u06CC\u0627 \u0645\u062F\u0644 Nia P-400",
-    "Url": "/product/dkp-14682928/\u0647\u062F\u0633\u062A-\u0628\u0644\u0648\u062A\u0648\u062B\u06CC-\u0646\u06CC\u0627-\u0645\u062F\u0644-nia-p-400",
-    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/b69f0b3c3f0506beaa7148856a9997e413404557_1709476426.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-    "SellingPrice": 912000,
-    "RrpPrice": 1900000,
-    "SoldPercentage": 0,
-    "Discount": 988000,
-    "DiscountPercent": 52
-  },
-  {
     "Id": "11402685",
     "AddDate": "2024-03-20T06:14:12.2042961Z",
     "Timer": 8139,
@@ -7512,5 +7495,22 @@
     "SoldPercentage": 0,
     "Discount": 16000,
     "DiscountPercent": 21
+  },
+  {
+    "Id": "14682928",
+    "AddDate": "2024-03-22T00:48:40.652272Z",
+    "Timer": 13270,
+    "EndDate": "2024-03-22T04:29:50.652272Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u0647\u062F\u0633\u062A \u0628\u0644\u0648\u062A\u0648\u062B\u06CC \u0646\u06CC\u0627 \u0645\u062F\u0644 Nia P-400",
+    "Url": "/product/dkp-14682928/\u0647\u062F\u0633\u062A-\u0628\u0644\u0648\u062A\u0648\u062B\u06CC-\u0646\u06CC\u0627-\u0645\u062F\u0644-nia-p-400",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/b69f0b3c3f0506beaa7148856a9997e413404557_1709476426.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 912000,
+    "RrpPrice": 1900000,
+    "SoldPercentage": 0,
+    "Discount": 988000,
+    "DiscountPercent": 52
   }
 ]
