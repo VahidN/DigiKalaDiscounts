@@ -7954,5 +7954,39 @@
     "SoldPercentage": 0,
     "Discount": 4000,
     "DiscountPercent": 15
+  },
+  {
+    "Id": "14815275",
+    "AddDate": "2024-03-25T12:19:18.4366795Z",
+    "Timer": 13231,
+    "EndDate": "2024-03-25T15:59:49.4366795Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u06A9\u0648\u0633\u0646 \u0641\u0648\u0631\u0648\u0627\u0631\u062F \u0645\u062F\u0644 \u0645\u0627\u0647 \u0648 \u0633\u062A\u0627\u0631\u0647\u00A0\u0645\u062C\u0645\u0648\u0639\u0647 \u062F\u0648 \u0639\u062F\u062F\u06CC",
+    "Url": "/product/dkp-14815275/\u06A9\u0648\u0633\u0646-\u0641\u0648\u0631\u0648\u0627\u0631\u062F-\u0645\u062F\u0644-\u0645\u0627\u0647-\u0648-\u0633\u062A\u0627\u0631\u0647-\u0645\u062C\u0645\u0648\u0639\u0647-\u062F\u0648-\u0639\u062F\u062F\u06CC",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/d11805e892609352e9ffb784b22365e8a60a5072_1710329894.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 369000,
+    "RrpPrice": 785000,
+    "SoldPercentage": 0,
+    "Discount": 416000,
+    "DiscountPercent": 53
+  },
+  {
+    "Id": "14803517",
+    "AddDate": "2024-03-25T12:19:17.9018966Z",
+    "Timer": 13232,
+    "EndDate": "2024-03-25T15:59:49.9018966Z",
+    "Retries": 0,
+    "IsDone": true,
+    "Error": "",
+    "Title": "\u0628\u0627\u0644\u0634 \u062F\u0648\u0631\u06AF\u0631\u062F\u0646\u06CC \u0641\u0648\u0631\u0648\u0627\u0631\u062F \u0645\u062F\u0644 FCLT500506 SpongeBob",
+    "Url": "/product/dkp-14803517/\u0628\u0627\u0644\u0634-\u062F\u0648\u0631\u06AF\u0631\u062F\u0646\u06CC-\u0641\u0648\u0631\u0648\u0627\u0631\u062F-\u0645\u062F\u0644-fclt500506-spongebob",
+    "ImageUrl": "https://dkstatics-public.digikala.com/digikala-products/f570c518a0ab26f715add9eac2ff4339466f0e05_1710248197.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+    "SellingPrice": 199000,
+    "RrpPrice": 399000,
+    "SoldPercentage": 0,
+    "Discount": 200000,
+    "DiscountPercent": 50
   }
 ]
